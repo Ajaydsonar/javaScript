@@ -1,0 +1,1 @@
+#this is the simon says game purely made with html,css, and js.
